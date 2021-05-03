@@ -1,0 +1,15 @@
+website.sendText("Your Name", "css", "user-submitted-name", "Percy Zamora"); 
+website.sendText("Your Name", "name", "user-submitted-name", "Percy Zamora"); 
+website.sendText("Your Name", "xpath", "user-submitted-name", "Percy Zamora");
+website.sendText("Email Adress", "css", "user-submitted-email", "percyzmr@gmail.com"); 
+website.sendText("Email Adress", "name", "user-submitted-email", "percyzmr@gmail.com"); 
+website.sendText("Email Adress", "xpath", "user-submitted-email", "percyzmr@gmail.com");
+website.sendText("Product Title", "css", "user-submitted-title", "Online Interview"); 
+website.sendText("Product Title", "name", "user-submitted-title", "Online Interview"); 
+website.sendText("Product Title", "xpath", "user-submitted-title", "Online Interview"); 
+website.sendText("Product URL", "css", "user-submitted-url", "Online Interview"); 
+website.sendText("Product URL", "name", "user-submitted-url", "Online Interview"); 
+website.sendText("Product URL", "xpath", "user-submitted-url", "Online Interview"); 
+website.sendText("Product Description", "css", "user-submitted-content", "This is my SR CHALLENGE SUBMITION"); 
+website.sendText("Product Description", "name", "user-submitted-content", "This is my SR CHALLENGE SUBMITION"); 
+website.sendText("Product Description", "xpath", "user-submitted-content", "This is my SR CHALLENGE SUBMITION"); 
